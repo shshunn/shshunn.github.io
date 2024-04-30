@@ -59,6 +59,12 @@
         - Explored MongoDB database to extract 500K+ time series data with Python scripts
         - Engineered Autoregressive Moving Average (ARMA) models tailored for air quality prediction in Dar es Salaam
 
+    - title: Deep Learning for Portfolio Optimization
+      year: 2024
+      description: 
+        - Employ convolutional neural network neural network to optimize the portfolio Sharpe Ratio
+      
+
 - title: Interests
   type: list
   contents:
