@@ -10,21 +10,24 @@
   type: time_table
   contents:
     - title: Master of Engineering
-      institution: Cornell University, Ithaca, New York
-      year: 2023
+      institution: Cornell University
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Master of Engineering in Financial Engineering
+        - title: Experience
+          contents: Teaching Assistant for the course Learning with Messy Data
+        - title: Selected Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Machine Learning
+            - Financial Engineering with Stochastic Calculus
+            - Quantitative Risk Management
+            - Time Series Data Analysis
+    - title: Bachelor of Science
+      institution: University of North Carolina
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Bachelor of Science in Statistics & Analytics, Minor in Business Administration & Data Science
+        - Dean’s List (All semesters)
 
 - title: Experience
   type: time_table
