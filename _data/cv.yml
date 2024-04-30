@@ -34,30 +34,30 @@
   contents:
     - title: Quantitative Research Intern
       institution: Shepherd Ventures, San Diego, CA
-      year: Jan. 2024 to Present
+      year: 2024
       description:
-        - Design strategies for constructing portfolios immune from Black Swan events based on K-means Clustering.
+        - Design strategies for constructing portfolios immune from Black Swan events based on K-means Clustering
         
     - title: Equity Research Intern
       institution: YouMy Wealth Family Office Alliance Co., Ltd., Shanghai, China
-      year: June to Aug. 2023
+      year: 2023
       description:
         - Leveraged Python for advanced time series analysis and forecasted a 17.7% growth rate on the Micro OLED industry & market trends
 
     - title: Financial Line Intern
       institution: Zurich General Insurance Company (China) Ltd., Shanghai, China
-      year: July to Nov. 2021
+      year: 2021
       description:
-        - Applied Global Pricing Platform model to conduct thorough analyses of customer coverages and risk classifications,
+        - Applied Global Pricing Platform model to conduct thorough analyses of customer coverages and risk classifications
 
 - title: Projects
   type: time_table
   contents:
     - title: Predict Air Quality in Dar es Salaam
-      year: July to Aug. 2023
+      year: 2023
       description: 
-        -Explored MongoDB database to extract 500K+ time series data with Python scripts
-        -Engineered Autoregressive Moving Average (ARMA) models tailored for air quality prediction in Dar es Salaam
+        - Explored MongoDB database to extract 500K+ time series data with Python scripts
+        - Engineered Autoregressive Moving Average (ARMA) models tailored for air quality prediction in Dar es Salaam
 
 - title: Interests
   type: list
