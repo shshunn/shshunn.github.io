@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "shunnwang",
         "url": "https://www.linkedin.com/in/shunnwang/"
       }
@@ -42,6 +42,14 @@
       "startDate": "2023-08-21",
       "endDate": "2024-12-15",
       "courses": ["Stochastic Calculus", "Machine Learning", "Quantitative Risk Management", "Monte Carlo Methods in Financial Engineering"]
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "location": "Chapel Hill, North Carolina",
+      "area": "Statistics & Business Administration",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-08-21",
+      "endDate": "2022-12-15"
     }
   ],
   "skills": [
@@ -51,11 +59,11 @@
     },
     {
       "name": "R",
-      "level": "Fluent"
+      "level": "Fluent",
     },
     {
       "name": "SQL",
-      "level": "Fluent"
+      "level": "Fluent",
     }
   ],
   "languages": [
@@ -77,16 +85,6 @@
         "Video Games",
         "Music"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
