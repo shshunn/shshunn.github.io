@@ -5,6 +5,7 @@
     "image": "",
     "email": "sw2337@cornell.edu",
     "phone": "(607) 216-2087",
+    "summary": "Aspiring quantitative finance analyst",
     "url": "https://shshunn.github.io",
     "location": {
       "address": "430 W State St",
@@ -36,23 +37,22 @@
     {
       "institution": "Cornell University",
       "location": "Ithaca, New York",
-      "area": "Engineering",
+      "area": "Financial Engineering",
       "studyType": "Master",
       "startDate": "2023-08-21",
       "endDate": "2024-12-15",
       "courses": ["Stochastic Calculus", "Machine Learning", "Quantitative Risk Management", "Monte Carlo Methods in Financial Engineering"]
     }
   ],
-  
   "skills": [
     {
       "name": "Python",
       "level": "Fluent",
-    }
+    },
     {
       "name": "R",
       "level": "Fluent"
-    }
+    },
     {
       "name": "SQL",
       "level": "Fluent"
@@ -72,12 +72,10 @@
   ],
   "interests": [
     {
-      
       "keywords": [
         "Basketball",
         "Video Games",
-        "Music",
-        
+        "Music"
       ]
     }
   ],
