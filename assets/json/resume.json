@@ -1,18 +1,16 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+  "Background Information": {
+    "name": "Shun Wang",
+    "email": "sw2337@cornell.edu",
+    "phone": "(607) 216-2087",
+    "url": "https://shshunn.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "430 W State St",
+      "postalCode": "NY 14850",
+      "city": "Ithaca",
       "countryCode": "US",
-      "region": "California"
+      "region": "To"
     },
     "profiles": [
       {
