@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Learning for Portfolio Optimization
-description: Utilized Convolutionary Neural Network to Optimize Portfolio's Sharpe Ratio. 
+description: Utilized Convolutional Neural Network to Optimize Portfolio's Sharpe Ratio. 
 img:
 importance: 1
 category: work
