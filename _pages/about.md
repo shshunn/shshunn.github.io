@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Shun Wang</p>
-    <p>New York</p>
+    <p>New York, New York</p>
  
 news: false
 selected_papers: false
