@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: IMG_8169.jpg
+  image: IMG_8169.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Shun Wang</p>
