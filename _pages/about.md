@@ -3,7 +3,6 @@ layout: about
 title: About
 permalink: /
 
-
 profile:
   align: right
   image: IMG_8169.jpg
@@ -12,7 +11,6 @@ profile:
     <p>Shun Wang</p>
     <p>New York</p>
  
-
 news: false
 selected_papers: false
 social: true 
