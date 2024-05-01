@@ -2,7 +2,7 @@
 layout: page
 title: Predict Air Quality in Dar es Salaam
 description: Explored MongoDB database and Engineered Time Series Analysis 
-img:
+img: assets/img/Dar_es_Salaam.jpg
 importance: 1
 category: work
 related_publications: false
